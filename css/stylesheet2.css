@@ -1,0 +1,74 @@
+.c-center-vertical {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 90px;
+}
+#c-nav {
+	background-color: #aaffaa;
+}
+
+#c-nav-brand {
+	margin: 0;
+	font-size: 28px;
+	font-family: CapitalisTypOasis;
+}
+
+.c-nav-button {
+	margin: 25px 10px 0px 0px;
+}
+
+.c-nav-links {
+	font-family: CapitalisTypOasis;
+	font-size: 15px;
+	font-weight: bold;
+	margin-top: 25px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+#nemean-col {
+	background-color: #aaaaff;
+	padding-top: 150px;
+	padding-bottom: 50px;
+}
+
+.nemean-h {
+	font-family: CapitalisTypOasis;
+	font-size: 18px;
+	font-weight: normal;
+	text-align: center;
+}
+
+.nemean-h01 {
+	font-family: CapitalisTypOasis;
+	font-size: 18px;
+	font-weight: normal;
+	text-align: center;
+}
+
+#nemean-img {
+	display: block;
+	width: 300px;
+	margin: 0px auto
+}
+
+#nemean-text-img {
+	display: block;
+	width: 400px;
+	margin: 20px auto 0px auto;
+}
+
+#portfolio-page {
+	background-color: #ffaaaa;
+}
+
+
+
+
+
+
+
+
+
+

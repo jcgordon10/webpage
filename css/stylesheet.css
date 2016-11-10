@@ -1,0 +1,194 @@
+html {
+	padding: 0px;
+	margin: 0px
+}
+body {
+	height: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+
+.jumbotron {
+	height: 610px;
+	background-image: url("../assets/images/mountains2.png");
+	background-color: black;
+	background-size: cover;
+	background-repeat: no-repeat;
+    background-position: left-center;
+	text-align: left;
+}
+
+#Seeamerica1 {
+	font-family: "Century Gothic";
+	font-size: 60px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #ffffff;
+}
+
+#Seeamerica2 {
+	font-family: "Century Gothic";
+	font-size: 24px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #ffffff;
+}
+
+#learnbutton {
+	border-radius: 0px;
+	color: white;
+	border-color: #da4a34;
+	background-color: #ff573d;
+	font-family: "Century Gothic";
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+#learnbutton:hover {
+	border-color: #aa3a29;
+	background-color: #da4a34;
+}
+
+.navbar-inverse {
+	background-color: #2b002b;
+	border-color: #360036;
+}
+
+.navbar-inverse .navbar-toggle {
+  border-color: #360036;
+}
+.navbar-inverse .navbar-toggle:hover,
+.navbar-inverse .navbar-toggle:focus {
+  background-color: #360036;
+}
+
+#travelbrand {
+	align: left;
+	margins: 0px;
+	padding: 0px;
+	padding-top: 5px;
+}
+
+#travelbrand img {
+	height: 60px;
+	padding-bottom: 5px;
+}
+
+#badlands {
+	margin-bottom: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+	font-family: "Agency FB";
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+#badlands1 {
+	font-size: 36px;
+	color: #ff804d;
+	letter-spacing: 16px;
+}
+
+#badlands2 {
+	font-size: 32px;
+	color: #bc273b;
+	letter-spacing: 10px;
+}
+
+.adventure {
+	text-align: center;
+}
+
+.adventure h2 {
+	color: #da4a34;
+	font-family: "Century Gothic";
+	font-size: 30px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.adventure hr {
+	width: 50%;
+    margin-top: 2em;
+    margin-bottom: 4em;
+    margin-left: auto;
+    margin-right: auto;
+	border-color: #53002e;
+    border-width: 6px;
+}
+
+.adventure p {
+	margin-top: 20px;
+	margin-bottom: 15px;
+	color: #707070;
+	font-family: "Century Gothic";
+	font-size: 20px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.adventure2 h2 {
+	color: #da4a34;
+	font-family: "Century Gothic";
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.adventure2 p {
+	color: #303030;
+	font-family: "Century Gothic";
+	font-size: 15px;
+}
+
+footer {
+	background-color: #53002e;
+	margin-top: 100px;
+	padding: 0px;
+	position: absolute;
+	width: 100%;
+}
+
+footer p {
+	padding: 10px;
+	margin: 0px;
+	text-align: center;
+	color: #707070;
+	font-family: "Century Gothic";
+	font-size: 14px;
+	font-style: italic;
+}
+
+.navbar {
+	margin: 0;
+	padding-left: 65px;
+}
+
+.nav li {
+	margin-top: 4px;
+	margin-left:3px;
+	margin-right:3px;
+	height: 100%;
+	padding-top: 8px;
+	padding-right: 10px;
+	padding-left: 10px;
+	text-align: center;
+	color: #ffffff;
+	font-family: "Century Gothic";
+	font-size: 18px;
+}
+
+.nav li:hover {
+	Background-color: #300030;
+}
+
+.nav li:active {
+	background-color: #3b003b;
+}
+
+
+
+
+

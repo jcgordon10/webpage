@@ -1,3 +1,3 @@
 # jcgordon10
-This website can be viewed at
+This website uses bootstrap framework and can be viewed at
 https://jcgordon10.github.io/travel_agency/
